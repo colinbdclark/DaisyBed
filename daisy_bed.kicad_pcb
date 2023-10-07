@@ -3155,7 +3155,7 @@
     (stroke (width 0.15) (type solid)) (layer "Cmts.User") (tstamp fd32fef5-4021-496d-ad57-438be1a92322))
   (gr_line (start 69.1 30.9) (end 69.2 59.4)
     (stroke (width 0.15) (type solid)) (layer "Cmts.User") (tstamp fd65c237-879f-4976-9d56-2fa6960db9c1))
-  (gr_rect (start 50 50) (end 129.5 151.75)
+  (gr_rect (start 50.225 50) (end 128.3 151.75)
     (stroke (width 0.1) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 8186f5b3-dbf1-4fcb-a6a9-34535652e223))
 
   (segment (start 83.35 77.15) (end 80.35 77.15) (width 0.5) (layer "F.Cu") (net 1) (tstamp 0ea04ad3-87e0-42d0-903f-03b02107c6ba))
